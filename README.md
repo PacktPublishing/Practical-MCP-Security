@@ -1,4 +1,4 @@
-# Securing Model Context Protocol
+# Practical MCP Security
 
 Python companion examples for the book published by Packt.
 
